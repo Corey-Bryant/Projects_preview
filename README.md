@@ -1,4 +1,4 @@
-# Projects_preview
+# Projects Preview
 
 
 This repository is public to show some data analysis projects.
