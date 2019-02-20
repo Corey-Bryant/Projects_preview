@@ -9,6 +9,6 @@ Within each project code is shown, this is so those who are interested can see h
 notations after the "#" symbol above the code. Then you will see the code, followed by the output, or product, of that code. Underneath
 tables and figures text will be present providing an explanation, asking another question, or some type of discussion.
 
-My personal website link: http://coreybryant10.wixsite.com/coreybryant10
+Python for Data Science: www.pythonfordatascience.org
 
 My LinkedIn page: https://www.linkedin.com/in/corey-bryant
