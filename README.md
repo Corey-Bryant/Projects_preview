@@ -12,3 +12,13 @@ __Statistics/Data Science Skills__: <br>
 * Machine learning <br>
 * Neural networks <br>
 * Data visualization <br>
+
+__Research Techniques__:
+* Quantitative and qualitative methods including mixed methods
+* Longitudinal/panel data
+* Survey/scale development
+* Program evaluation
+* Blood
+* Mood manipulation
+* Database mining
+* Text/sentiment analysis
