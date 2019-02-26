@@ -3,7 +3,7 @@ This repository is to demonstrate some skills. I have completed many other proje
 
 
 ## Brief About Me
-Statistician at the University of Michigan.
+Statistician at the University of Michigan. Main project while at UM, evaluate the effects of Medicare/Medicaid expansion within the State of Michigan on enrollees. Results go to state legislatures, and to the Center for Medicare and Medicaid Services to influence policy at the state and federal level.
 
 __Other place to scope me out__: <br>
 Python for Data Science: www.pythonfordatascience.org (founder/sole developer) <br>
