@@ -1,5 +1,5 @@
 # Projects Preview
-This repository is to demonstrate some skills. I have completed many other projects, but due to contractual reasons I cannot display them. Most of these demonstrations were completed using Python, which is probably my current favorite programming language. Also can program in R, Stata, SAS, SPSS, MySQL, and experienced with JavaScript, HTML, and CSS.
+This repository is to demonstrate some skills. I have completed many other projects, but due to contractual reasons I cannot display them. Most of these demonstrations were completed using Python, which is probably my current favorite programming language. Also can program in R, Stata, SAS, SPSS, MySQL, and experienced with JavaScript, HTML, and CSS. Next language I am eyeing is C++.
 
 
 ## Brief About Me
